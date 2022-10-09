@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPlay", "APIPlay\APIPlay.csproj", "{310469F2-7E92-4D42-9127-99FE5B31DCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310469F2-7E92-4D42-9127-99FE5B31DCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310469F2-7E92-4D42-9127-99FE5B31DCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310469F2-7E92-4D42-9127-99FE5B31DCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310469F2-7E92-4D42-9127-99FE5B31DCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE92935-7B60-4FA3-BC87-1CB6D9D3678E}
+	EndGlobalSection
+EndGlobal
